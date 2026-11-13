@@ -1,9 +1,9 @@
 <div align="center">
 
-<h1>Felipe | Pip</h1>
+<h1>Felipe</h1>
 <p><strong>Frontend Developer — Angular &amp; TypeScript</strong></p>
 
-<a href="https://www.linkedin.com/in/felipe-acosta-991689195/"><img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge" alt="Conectemos en LinkedIn"></a>
+<a href="https://www.linkedin.com/in/felipe-acosta-991689195/"><img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
 
 </div>
 
@@ -43,4 +43,4 @@ Me gusta construir interfaces que se vean bien y sean cómodas de usar. Mi foco 
 ---
 
 **Más allá del frontend**  
-También hay música, videojuegos e ideas que terminan convirtiéndose en proyectos. Me gusta probar herramientas nuevas, experimentar con IA y construir cosas que yo mismo usaría. A veces para aprender algo; otras, simplemente por curiosidad.
+Me gustan los videojuegos, músicas y experimentar con agentes de IA. Espero a futuro desarrollar mi propio videojuego.
